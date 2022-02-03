@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="First"
+        android:icon="@drawable/img1"
+        android:id="@+id/first"/>
+
+    <item
+        android:title="Second"
+        android:icon="@drawable/img2"
+        android:id="@+id/second"/>
+
+    <item
+        android:title="Third"
+        android:icon="@drawable/img3"
+        android:id="@+id/third"/>
+
+</menu>

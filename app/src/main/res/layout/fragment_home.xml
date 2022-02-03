@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/myConstraint">
+
+    <TextView style="@style/myTextView" />
+
+    <Button
+        android:id="@+id/employee"
+        style="@style/myButton" />
+
+    <Button
+        android:id="@+id/customer"
+        style="@style/myButton2" />
+
+    <Button
+        android:id="@+id/order"
+        style="@style/myButton3" />
+
+</RelativeLayout>
